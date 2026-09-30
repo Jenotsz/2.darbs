@@ -1,1 +1,1 @@
-print("no .MAIN")
+print("Hello")
